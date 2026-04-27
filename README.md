@@ -30,7 +30,7 @@ chat_app/
 ## Installation & Setup
 
 1. Clone the repository
-   git clone https://github.com/yourusername/chat-app-backend.git
+   git clone https://github.com/Dhanush1728/chat-app-backend.git
    cd chat-app-backend
 
 2. Install dependencies
