@@ -40,7 +40,7 @@ chat_app/
    uvicorn main:app --reload
 
 4. Open Swagger UI
-   http://localhost:8000/docs
+   (https://chat-app-backend-5zv8.onrender.com/docs)
 
 ## API Endpoints
 
